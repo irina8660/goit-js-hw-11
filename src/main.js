@@ -14,7 +14,7 @@ const lightbox = new SimpleLightbox('.image-container a', {
 
 const refs = {
   searchForm: document.querySelector('.search-form'),
-  loader: document.querySelector('.loader'),
+  loader: document.querySelector('.loader-wrap'),
   gallery: document.querySelector('.gallery'),
 };
 
